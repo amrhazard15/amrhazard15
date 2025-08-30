@@ -41,8 +41,11 @@ My first project to build a professional **GitHub profile README** that reflects
 
 ## Get in Touch 📬  
 
-- 🌐 **Portfolio Website (https://docs.google.com/presentation/d/1_KQogqb1QYbkcYIWU9PkXC2hVsMgLrrRwWJ0UiGH5cI/edit?usp=sharing)**  
-- 💼 [LinkedIn](www.linkedin.com/in/amr-khaaled)  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://docs.google.com/presentation/d/1_KQogqb1QYbkcYIWU9PkXC2hVsMgLrrRwWJ0UiGH5cI/edit?usp=sharing)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amr-khaaled)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhazard15)
+-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amrkh3bkarino10@gmail.com) 
+ 
 
 
 ---
